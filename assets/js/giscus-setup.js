@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "LiuHC0428/hongcheng-s-CV",
+    "data-repo": "LiuHC0428/hongchengliu",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
