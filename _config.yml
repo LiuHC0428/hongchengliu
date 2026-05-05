@@ -17,8 +17,8 @@ keywords: omni-llm, multimodal large language model, audio-visual understanding,
 lang: en
 icon: 🧠
 
-url: https://hongchengliu.github.io # change this to your GitHub Pages URL
-baseurl: # leave blank if your site is at https://hongchengliu.github.io/
+url: https://liuhc0428.github.io
+baseurl: /hongchengliu
 last_updated: false
 impressum_path:
 back_to_top: true
